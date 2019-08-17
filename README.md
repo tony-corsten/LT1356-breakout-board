@@ -4,7 +4,7 @@ The LT1356 is a quad-input op-amp with high slew rate, fast settling time, low i
 
 *_Note_*: The board is currently designed as a buffer amplifier. Make sure to edit the design if you want non-unity gain. A future update of the design will include a schematic setup for a non-inverting amplifier on each input. 
 
-# Navigating this library
+# Navigating this repo
 The main folder contains relevant Kicad files (.pro, .pcb, .sch). The `gerber` directory has a PCB-fabrication ready set of gerber files. The `library` directory has a custom footprint (.kicad_mod) that works for the SOP version of this chip. The official Analog part file for the chip (.lib) can also be found there.
 
 # Board images
