@@ -4,3 +4,10 @@ The LT1356 is a quad-input op-amp with high slew rate, fast settling time, low i
 
 # Navigating this library
 The main folder contains relevant Kicad files (.pro, .pcb, .sch). The `gerber` directory has a PCB-fabrication ready set of gerber files. The `library` directory has a custom footprint (.kicad_mod) that works for the SOP version of this chip. The official Analog part file for the chip (.lib) can also be found there.
+
+# Board images
+PCB Layout:
+![PCB Layout](https://i.imgur.com/PXVU5Lv.png)
+
+Schematic:
+![Schematic](https://i.imgur.com/40n2359.png)
